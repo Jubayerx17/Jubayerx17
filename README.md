@@ -47,7 +47,7 @@ Git, GitHub, VS Code
 
 ### Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: (https://github.com/Jubayerx17)
 - LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
